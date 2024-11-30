@@ -1,0 +1,6 @@
+wget
+torch
+tqdm
+matplotlib
+numpy
+opencv-python
